@@ -51,8 +51,8 @@
 
 ## Statistique Github
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&theme=radical)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-d-utilisateur&layout=compact&theme=radical)
+![Contributions](https://github-readme-stats.vercel.app/api?username=Gaillard05&show_icons=true&theme=radical)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaillard05&layout=compact&theme=radical)
 
 ## 📫 Contactez-Moi
 
