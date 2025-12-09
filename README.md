@@ -56,8 +56,8 @@
 
 ## 📫 Contactez-Moi
 
-[![LikedIn](https://fr.linkedin.com/in/maylis-gaillard)]
-[![Mail](maylisgaillard@hotmail.fr)]
+[![LinkedIn](https://fr.linkedin.com/in/maylis-gaillard)]
+[![Email](maylisgaillard@hotmail.fr)]
 
 <!--
 **Gaillard05/Gaillard05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
