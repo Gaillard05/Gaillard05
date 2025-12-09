@@ -40,19 +40,15 @@
 
 ## Projets réalisés
 
-[Gusto Coffee](https://github.com/Gaillard05/gustCoffeeHeroku) | Projet fictif de réservation pour le coffe-shop coworking Gusto Coffee | Twig, CSS, JS, Symfony, MYSQL
-[EFreiFlix](https://github.com/Gaillard05/mfe_session1/tree/efreiflix_beta?tab=readme-ov-file) | Projet fictif : Clone de Netflix qui démontre la mise en œuvre des micro-frontends | HTML, CSS, React
-[Streamlit-LLM](https://github.com/Gaillard05/Streeamlit-LLM) | Projet fictif : clone de ChatGPT conçu pour assister dans la révision des cours.  | Python
+![Gusto Coffee](https://github.com/Gaillard05/gustCoffeeHeroku) | Projet fictif de réservation pour le coffe-shop coworking Gusto Coffee | Twig, CSS, JS, Symfony, MYSQL
+![EFreiFlix](https://github.com/Gaillard05/mfe_session1/tree/efreiflix_beta?tab=readme-ov-file) | Projet fictif : Clone de Netflix qui démontre la mise en œuvre des micro-frontends | HTML, CSS, React
+![Streamlit-LLM](https://github.com/Gaillard05/Streeamlit-LLM) | Projet fictif : clone de ChatGPT conçu pour assister dans la révision des cours.  | Python
 
 
 ## Projet actuel 
 
 [Portfolio-maylis](https://github.com/Gaillard05/portfolio-maylis) | Ce projet présente les travaux réalisés au cours de mes différentes formations en développement web | HTML, CSS, JS, PHP, MYSQL
 
-## Statistique Github
-
-![Contributions](https://github-readme-stats.vercel.app/api?username=Gaillard05&show_icons=true&theme=radical)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaillard05&layout=compact&theme=radical)
 
 ## 📫 Contactez-Moi
 
