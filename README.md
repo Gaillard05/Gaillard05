@@ -56,8 +56,8 @@
 
 ## 📫 Contactez-Moi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/maylis-gaillard)]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maylisgaillard@hotmail.fr)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/maylis-gaillard)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maylisgaillard@hotmail.fr)
 
 <!--
 **Gaillard05/Gaillard05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
