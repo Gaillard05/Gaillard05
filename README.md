@@ -32,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/maylis-gaillard)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maylisgaillard@hotmail.fr)
-[![Portfolio](https://gaillard05.github.io/).
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaillard05.github.io/).
 
 <!--
 **Gaillard05/Gaillard05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
